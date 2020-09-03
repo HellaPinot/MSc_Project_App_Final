@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "624124776499",
+    "firebase_url": "https://tranquil-garage-284216.firebaseio.com",
+    "project_id": "tranquil-garage-284216",
+    "storage_bucket": "tranquil-garage-284216.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624124776499:android:975d1a362164d946a51346",
+        "android_client_info": {
+          "package_name": "com.example.msc_project_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624124776499-qt6qiok2v0srojidq5vv8l5ooonos5a5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.msc_project_app",
+            "certificate_hash": "c520fafba8d1d126b1d5fbe3c11dadbcf1786ac3"
+          }
+        },
+        {
+          "client_id": "624124776499-3as4pm3agipai6u16kejljlgatu5dato.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAkJRZ3Iq6PtEH9v4COJNxXYDjhZsOICY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624124776499-3as4pm3agipai6u16kejljlgatu5dato.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
